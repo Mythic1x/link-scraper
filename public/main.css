@@ -1,0 +1,28 @@
+.userinput {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+#text-box {
+    font-size: 5rem;
+    border-width: 0.2rem;
+}
+#done {
+    font-size: 5rem;
+    cursor: pointer;
+}
+#clear {
+    font-size: 5rem;
+    cursor: pointer;
+}
+#rb {
+    width: 200px;
+    position: absolute;
+    top: 450px;
+    right: 300px;
+}
+#linkbox {
+    position: absolute;
+    top: 100px;
+}
